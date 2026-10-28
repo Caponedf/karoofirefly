@@ -2,7 +2,7 @@
   "label": "KarooFireFly (Caponedf fork)",
   "packageName": "io.github.caponedf.karoofirefly",
   "iconUrl": "https://raw.githubusercontent.com/Caponedf/karoofirefly/fork/caponedf-package-id/docs/ic_firefly.svg",
-  "latestApkUrl": "https://github.com/Caponedf/karoofirefly/releases/download/v0.5.5-fork/karoo-light-controller-fork-0.5.5.apk",
+  "latestApkUrl": "https://raw.githubusercontent.com/Caponedf/karoofirefly/fork-apks/karoo-light-controller-fork-0.5.5.apk",
   "latestVersion": "0.5.5",
   "latestVersionCode": 59,
   "developer": "Dennis Straßer",
