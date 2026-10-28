@@ -32,7 +32,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "io.github.derstrassi.karoofirefly"
+        applicationId = "io.github.caponedf.karoofirefly"
         minSdk = 23
         targetSdk = 34
         versionCode = gitCommitCount()
