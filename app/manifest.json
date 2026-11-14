@@ -2,10 +2,10 @@
   "label": "KarooFireFly (Caponedf fork)",
   "packageName": "io.github.caponedf.karoofirefly",
   "iconUrl": "https://raw.githubusercontent.com/Caponedf/karoofirefly/fork/caponedf-package-id/docs/ic_firefly.svg",
-  "latestApkUrl": "https://raw.githubusercontent.com/Caponedf/karoofirefly/fork-apks/karoo-light-controller-fork-0.5.5.apk",
-  "latestVersion": "0.5.5",
-  "latestVersionCode": 59,
+  "latestApkUrl": "https://raw.githubusercontent.com/Caponedf/karoofirefly/fork-apks/karoo-light-controller-fork-0.5.6.apk",
+  "latestVersion": "0.5.6",
+  "latestVersionCode": 63,
   "developer": "Dennis Straßer",
   "description": "Automatic smart bike light control based on time of day and ambient light. Supports ANT+ lights (via Karoo pairing) and Magicshine BLE lights (via Bluetooth). Per-light configuration with protocol-specific modes, time-based and ambient light sensor automation, radar warn flash for rear lights, zone change notifications, and manual override via BonusActions.",
-  "releaseNotes": "* Fix: lights connect again on Karoo OS 1.663.2548 (SensorService transaction codes detected at runtime)\n* Fork build with its own package id so it installs next to / instead of the upstream app without adb\n* Magicshine BLE light support (Hori 1300, EVO 1700)\n* Dynamic per-device light mode queries via ANT+\n* Per-light profiles with protocol-specific modes\n* Radar Warn Flash for rear lights\n* Tap-to-configure light detail dialog with test buttons\n* Battery and temperature readout for BLE lights\n* Live ANT+ connection status\n* Improved service stability (foreground service type)\n* Zone change notifications with per-light mode details"
+  "releaseNotes": "* Fix: lights work again on Karoo OS 1.669.2569 (12 Nov 2026) — no longer needs to read Hammerhead's sensor-service APK\n* Fix: lights connect again on Karoo OS 1.663.2548 (SensorService transaction codes detected at runtime)\n* Fork build with its own package id so it installs next to / instead of the upstream app without adb\n* Magicshine BLE light support (Hori 1300, EVO 1700)\n* Dynamic per-device light mode queries via ANT+\n* Per-light profiles with protocol-specific modes\n* Radar Warn Flash for rear lights\n* Tap-to-configure light detail dialog with test buttons\n* Battery and temperature readout for BLE lights\n* Live ANT+ connection status\n* Improved service stability (foreground service type)\n* Zone change notifications with per-light mode details"
 }
