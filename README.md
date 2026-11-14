@@ -5,4 +5,5 @@ so the Karoo Extension Library can download them.
 
 | File | Package | Version | SHA-256 |
 |---|---|---|---|
+| karoo-light-controller-fork-0.5.6.apk | io.github.caponedf.karoofirefly | 0.5.6 (63) | e69b57cf998f1d53fcfbc6598e7b67bf720a67f87a965a110308c183ea7efa1c |
 | karoo-light-controller-fork-0.5.5.apk | io.github.caponedf.karoofirefly | 0.5.5 (59) | abbb55dc350a74094a697a51f79e0b9c19c102b37be7b73af73d200cfd2ff29a |
